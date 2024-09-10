@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://maqate.github.io/nDK/sitemap.nDK.gz
